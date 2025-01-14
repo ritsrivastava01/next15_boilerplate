@@ -13,7 +13,7 @@ npm run dev
 The boilerplate includes a script to remove the .git folder, allowing you to start with a fresh Git repository. Run the following command:
 
 ```bash
-npm run clear:git
+npm run clean:git
 ```
 
 ## Run App
